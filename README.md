@@ -1,7 +1,6 @@
 # MiniMobile-Framework
 Aprende a crear un mini framework multiplataforma con HTML , CSS , JS Y MAS que te permite crear version movil y version web
 
-¡Entendido! Vamos a crear una documentación básica que cubra todo nuestro framework "MiniMobile" hasta ahora. Aquí tienes una estructura inicial de la documentación:
 
 **MiniMobile: Documentación Básica**
 
